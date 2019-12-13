@@ -1,0 +1,9 @@
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\bin\Debug\ChessTime!.exe.config
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\bin\Debug\ChessTime!.exe
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\bin\Debug\ChessTime!.pdb
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\obj\Debug\ChessTime_.chessForm.resources
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\obj\Debug\ChessTime_.Properties.Resources.resources
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\obj\Debug\ChessTime!.csproj.GenerateResource.cache
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\obj\Debug\ChessTime!.exe
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\obj\Debug\ChessTime!.pdb
+C:\Users\jdwoo090\source\repos\ChessTime!\ChessTime!\obj\Debug\ChessTime!.csprojAssemblyReference.cache
